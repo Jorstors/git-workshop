@@ -21,14 +21,15 @@ Your mission is to use your Git skills to rewrite history. Below is a tale of a 
 ### 🚀 Instructions
 
 0. **Fork this Repository:** Click the **"Fork"** button at the top right of this GitHub page to create your own copy.
-1. **Clone Fork to Your Computer:** Open your terminal and run (in your desired directory):
+1. **Clone & Branch:** Open your terminal and run:
    - `git clone https://github.com/YOUR_USERNAME/git-workshop.git`
    - `cd git-workshop`
+   - `git checkout -b feature/successful-cedric` (creates a new branch for your changes)
 2. **Alter the Story:** Replace the bolded words in `README.md` with successful alternatives.
 3. **Save:** Save your changes.
 4. **Commit Your Changes:** In your terminal, run:
-   - `git add README.md` (prepares the file)
-   - `git commit -m "Make Sir Cedric successful"` (saves the change locally)
-5. **Submit a Pull Request:**
-   - `git push origin main` (uploads the code to **your fork**)
+   - `git add README.md`
+   - `git commit -m "feat: update sir cedric quest to success"`
+5. **Push & Submit a Pull Request:**
+   - `git push -u origin feature/successful-cedric` (uploads your branch and links it to your fork)
    - Go to the original repository on GitHub and click the yellow **"Compare & pull request"** banner!
