@@ -9,12 +9,12 @@ Your mission is to use your Git skills to rewrite history. Below is a tale of a 
 ### 📖 The Tale of Sir Cedric
 
 > Sir Cedric was a knight of **unquestionable** skill.
->
-> He was **aided** by the forest's magic and **made invincible** by the dragon guarding the cave.
->
+
+> He was **enthralled** by the forest's magic and **beguiled** by the dragon guarding the cave.
+
 > Having **succeeded** his mission, he returned to the castle in **triumph**.
->
-> The King was **pleased**, and Cedric's **success** was **celebrated** by the court.
+
+> The King was **pleased**, and Cedric's **quest** was **congratulated** by the court.
 
 ---
 
